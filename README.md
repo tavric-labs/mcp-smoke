@@ -6,6 +6,8 @@
 
 `mcp-smoke-agent` is a small CLI for smoke-testing MCP servers through real plain-English requests.
 
+Documentation: **https://mcp-smoke.tavric-labs.net**
+
 ## Why use it in e2e harnesses
 
 If you are building MCP server infrastructure, this gives you one realistic client for end-to-end tests.
