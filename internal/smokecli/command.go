@@ -8,7 +8,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/Agent-Hellboy/mcp-smoke/internal/mcp"
+	"github.com/tavric-labs/mcp-smoke/internal/mcp"
 )
 
 const (

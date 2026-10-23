@@ -3,7 +3,7 @@
 ## With Go
 
 ```bash
-go install github.com/Agent-Hellboy/mcp-smoke/cmd/mcp-smoke-agent@latest
+go install github.com/tavric-labs/mcp-smoke/cmd/mcp-smoke-agent@latest
 ```
 
 This installs the `mcp-smoke-agent` binary into your Go bin directory. CI for this repository builds with Go 1.24.

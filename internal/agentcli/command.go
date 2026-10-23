@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Agent-Hellboy/mcp-smoke/internal/agent"
-	"github.com/Agent-Hellboy/mcp-smoke/internal/mcp"
+	"github.com/tavric-labs/mcp-smoke/internal/agent"
+	"github.com/tavric-labs/mcp-smoke/internal/mcp"
 )
 
 const (

@@ -3,7 +3,7 @@ package smokecli
 import (
 	"testing"
 
-	"github.com/Agent-Hellboy/mcp-smoke/internal/mcp"
+	"github.com/tavric-labs/mcp-smoke/internal/mcp"
 )
 
 func TestSelectToolSkipsEarlierRequiredMismatch(t *testing.T) {

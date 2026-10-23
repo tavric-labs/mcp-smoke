@@ -11,7 +11,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/Agent-Hellboy/mcp-smoke/internal/mcp"
+	"github.com/tavric-labs/mcp-smoke/internal/mcp"
 )
 
 type Config struct {

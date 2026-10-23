@@ -5,8 +5,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/Agent-Hellboy/mcp-smoke/internal/agentcli"
-	"github.com/Agent-Hellboy/mcp-smoke/internal/smokecli"
+	"github.com/tavric-labs/mcp-smoke/internal/agentcli"
+	"github.com/tavric-labs/mcp-smoke/internal/smokecli"
 )
 
 func main() {

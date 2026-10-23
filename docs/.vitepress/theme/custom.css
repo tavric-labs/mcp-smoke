@@ -95,3 +95,10 @@
   .home-section { padding: 16px; }
   .home-section h2 { font-size: 24px; }
 }
+
+/* Phones: keep diagrams at a readable size and scroll inside the frame
+   (tap a diagram to open it full size). */
+@media (max-width: 640px) {
+  .mermaid { justify-content: flex-start; }
+  .mermaid > svg { width: max(100%, 560px); max-width: none !important; flex: none; }
+}
